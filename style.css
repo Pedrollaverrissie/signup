@@ -391,8 +391,8 @@ margin-top: 30px;
    align-items: center;
    color: white;
    border-radius: 20px;
-   margin-left: 2%;
-   margin-right: 2%;
+   margin-left: 8%;
+   margin-right: 8%;
    
 
 }
@@ -430,7 +430,7 @@ h3{
     width: 21px;
     border-radius: 2px;
     left:38px;
-  
+    background-color: yellow;
 }
 .notice2 p{
     margin-left: 32px;
@@ -519,9 +519,14 @@ h3{
 .signup-root{
  margin-bottom: 28px;
 }
-.signup-root span{
-    cursor: pointer;
+.signup-root p{
+    color: rgb(234, 179, 8);
 }
+a{
+    cursor: pointer;
+    color: rgb(234, 179, 8);
+    transition: 0.5s;
+} 
 .line2{
     display: flex;
     align-items: center;
