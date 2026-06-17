@@ -391,8 +391,8 @@ margin-top: 30px;
    align-items: center;
    color: white;
    border-radius: 20px;
-   margin-left: 8%;
-   margin-right: 8%;
+   margin-left: 2%;
+   margin-right: 2%;
    
 
 }
@@ -430,7 +430,7 @@ h3{
     width: 21px;
     border-radius: 2px;
     left:38px;
-    background-color: yellow;
+  
 }
 .notice2 p{
     margin-left: 32px;
@@ -456,7 +456,6 @@ h3{
     justify-content:left;
     align-items: start;
     height: 26px;
-    background-color: rgb(193, 114, 114);
     position: relative;
 }
 .identity div{
