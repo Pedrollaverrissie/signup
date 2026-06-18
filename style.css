@@ -383,6 +383,7 @@ margin-top: 30px;
 
 
 .signup-page{
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    display: flex;
    flex-direction: column;
    background-color: rgb(24, 10, 42);
